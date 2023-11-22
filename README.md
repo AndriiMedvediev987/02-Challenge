@@ -28,6 +28,6 @@ N/A
 N/A
 
 ## Useful links
-[Deploy here](https://andriimedvediev987.github.io/02-Challenge/)
+[Deploy here](https://andriimedvediev987.github.io/andrii-accessibility-challenge/)
 
-[Repository here](https://github.com/AndriiMedvediev987/02-Challenge.git)
+[Repository here](https://github.com/AndriiMedvediev987/andrii-accessibility-challenge.git)
