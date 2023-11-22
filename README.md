@@ -26,3 +26,7 @@ N/A
 ## License
 
 N/A
+
+##Useful links
+[Deploy here:](AndriiMedvediev987.github.io/02-Challenge)
+[Repository here:](https://github.com/AndriiMedvediev987/02-Challenge.git)
