@@ -137,6 +137,7 @@ a {
     padding: 30px;
     clear: both;
     text-align: center;
+    display: none;
 }
 
 .footer h2 {
