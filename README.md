@@ -28,6 +28,6 @@ N/A
 N/A
 
 ## Useful links
-[Deploy here:](https://www.google.com/)
+[Deploy here](https://andriimedvediev987.github.io/02-Challenge/)
 
-[Repository here:](https://github.com/AndriiMedvediev987/02-Challenge.git)
+[Repository here](https://github.com/AndriiMedvediev987/02-Challenge.git)
