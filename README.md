@@ -27,6 +27,7 @@ N/A
 
 N/A
 
-##Useful links
+## Useful links
 [Deploy here:](AndriiMedvediev987.github.io/02-Challenge)
+
 [Repository here:](https://github.com/AndriiMedvediev987/02-Challenge.git)
